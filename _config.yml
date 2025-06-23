@@ -1,13 +1,7 @@
 domain: shuigel.github.io
 url: https://shuigel.github.io
-baseurl: "/docs" 
-
-title: shuigen's homepage
-email: shuigen@u.nus.edu
-description: >- 
-  This is Shuigen's homepage.
+baseurl: "" 
 
 theme: minima
 plugins:
   - jekyll-feed
-
