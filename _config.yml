@@ -6,7 +6,7 @@ name                     : &name "Shuigen Liu"
 description              : &description "Ph.D. student<br>Department of Mathematics<br>National University of Singapore"
 url                      : https://liu-shuigen.github.io
 baseurl                  : ""
-repository               : "homepage"
+repository               : "liu-shuigen.github.io"
 
 author:
   avatar           : "SL.jpeg"
