@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the Department of Mathematics, National University of Singapore.
+I am currently a Ph.D. student in the Department of Mathematics at National University of Singapore.
 My advisors are [Prof. Xin T. Tong](https://sites.google.com/view/xintongthomson/home) and [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/).
 I obtained my B.S. in Mathematics at Peking University. 
 
