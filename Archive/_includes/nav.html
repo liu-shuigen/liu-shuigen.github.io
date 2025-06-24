@@ -1,0 +1,13 @@
+{% assign items = include.children | default: site.data.navigation %}
+{% if items and items != empty %}
+<ul class="nav">
+  {% for item in items %}
+    <li>
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {% if item.children %}
+        {% include nav.html children=item.children %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}

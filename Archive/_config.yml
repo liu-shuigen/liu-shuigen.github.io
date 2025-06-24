@@ -1,0 +1,9 @@
+domain: shuigel.github.io
+url: https://shuigel.github.io
+baseurl: "" 
+
+title: "Shuigen's Homepage"
+
+theme: minima
+plugins:
+  - jekyll-feed
