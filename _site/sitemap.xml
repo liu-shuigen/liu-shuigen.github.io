@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/research/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/teaching/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/files/CV.pdf</loc>
-<lastmod>2025-06-24T10:16:47+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://liu-shuigen.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://liu-shuigen.github.io/research/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- <url>
+    <loc>https://liu-shuigen.github.io/teaching/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url> -->
+  <url>
+    <loc>https://liu-shuigen.github.io/files/CV.pdf</loc>
+    <lastmod>2025-10-01T13:05:55+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://liu-shuigen.github.io/files/Liu_Shuigen_Localization_in_Sampling.pdf</loc>
+    <lastmod>2025-10-01T13:05:55+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
