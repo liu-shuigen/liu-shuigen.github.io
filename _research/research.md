@@ -4,9 +4,10 @@ title:
 permalink: /research/
 ---
 
-My research focuses on analysis and development of dimension reduction methods for sampling and inverse problems, with applications in Bayesian inference and uncertainty quantification.
-Recently I am developing *localization* methods for sampling that utilize graphical locality to reduce computational and statistical complexity.
-I also work on ensemble Kalman methods for inverse problems and data assimilation.  
+My research focuses on analysis and development of algorithms for high-dimensional sampling and uncertainty quantification, with applications in Bayesian inference and inverse problems.
+I am currently developing *localization* methods for sampling that utilize graphical locality to reduce computational and statistical complexity.
+I also work on ensemble Kalman methods for high-dimensional inference.
+I am broadly interested in stochastic algorithms for high-dimensional problems.
 
 <br>
 
