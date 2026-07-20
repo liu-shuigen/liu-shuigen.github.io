@@ -16,4 +16,4 @@ My research lies at the intersection of computational mathematics, applied proba
 See my [Research](/research/) and [Google Scholar](https://scholar.google.com/citations?user=MaIJOcIAAAAJ).
 
 Address: 10 Lower Kent Ridge Road, S17-07-25, Singapore 119076
-<br>Email: shuigen\[dot\]liu\[at\]nus\[dot\]edu\[dot\]sg
+<br>Email: lsg76230\[at\]gmail\[dot\]com
