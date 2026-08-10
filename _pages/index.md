@@ -15,5 +15,5 @@ In Fall 2024, I visited the MIT UQ group, hosted by [Prof. Youssef Marzouk](http
 My research lies at the intersection of computational mathematics, applied probability, and statistics. I focus on analysis and development of algorithms for high-dimensional sampling and uncertainty quantification, with applications in Bayesian inference, inverse problems, and generative modeling. I am particularly interested in localization methods for sampling, and I also work on ensemble Kalman methods for high-dimensional inference and data assimilation.
 See my [Research](/research/) and [Google Scholar](https://scholar.google.com/citations?user=MaIJOcIAAAAJ).
 
-Address: [218 McAllister Building](https://map.psu.edu/?id=1134#!ct/25403,26748,26749,26750,27255?m/274771?s/mcallister?sbc/), Penn State University, University Park, PA 16802
-<br>Email: lsg76230\[at\]gmail\[dot\]com
+Address: 218 McAllister Building, Penn State University, University Park, PA 16802
+<br>Email: shuigen\[at\]psu\[dot\]edu

@@ -3,7 +3,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shuigen Liu"
-description              : &description "Postdoctoral Fellow<br>Department of Mathematics<br>The Pennsylvania State University"
+description              : &description "Postdoctoral Fellow<br>Department of Mathematics<br>Pennsylvania State University"
 url                      : https://liu-shuigen.github.io
 baseurl                  : ""
 repository               : "liu-shuigen.github.io"
@@ -11,9 +11,9 @@ repository               : "liu-shuigen.github.io"
 author:
   avatar           : "SL.jpeg"
   name             : "Shuigen Liu"
-  bio              : "Postdoctoral Fellow<br>Department of Mathematics<br>The Pennsylvania State University"
+  bio              : "Postdoctoral Fellow<br>Department of Mathematics<br>Pennsylvania State University"
   address         : # "218 McAllister Building<br>University Park, PA 16802"
-  email            : # "lsg76230@gmail.com"
+  email            : # "shuigen@psu.edu"
 
   academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=MaIJOcIAAAAJ"
