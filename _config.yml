@@ -3,7 +3,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shuigen Liu"
-description              : &description "Research Fellow<br>Department of Mathematics<br>National University of Singapore"
+description              : &description "Postdoctoral Fellow<br>Department of Mathematics<br>The Pennsylvania State University"
 url                      : https://liu-shuigen.github.io
 baseurl                  : ""
 repository               : "liu-shuigen.github.io"
@@ -11,8 +11,8 @@ repository               : "liu-shuigen.github.io"
 author:
   avatar           : "SL.jpeg"
   name             : "Shuigen Liu"
-  bio              : "Research Fellow<br>Department of Mathematics<br>National University of Singapore"
-  address         : # "10 Lower Kent Ridge Road<br>S17-05-14, Singapore 119076"
+  bio              : "Postdoctoral Fellow<br>Department of Mathematics<br>The Pennsylvania State University"
+  address         : # "218 McAllister Building<br>University Park, PA 16802"
   email            : # "lsg76230@gmail.com"
 
   academia         : # URL
