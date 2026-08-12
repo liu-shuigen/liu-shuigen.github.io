@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow in the Department of Mathematics at Penn State, mentored by [Prof. John Harlim](https://science.psu.edu/math/people/jzh13).
+I am currently a Postdoctoral Scholar in the Department of Mathematics at Penn State, mentored by [Prof. John Harlim](https://science.psu.edu/math/people/jzh13).
 
 I obtained my B.S. in Mathematics from Peking University in 2021, and my Ph.D. in Mathematics from NUS in 2025, advised by [Prof. Xin T. Tong](https://sites.google.com/view/xintongthomson/home) and [Prof. Weizhu Bao](https://blog.nus.edu.sg/matbwz/). My thesis is on [localization in sampling](/files/Liu_Shuigen_Localization_in_Sampling.pdf).
 In Fall 2024, I visited the MIT UQ group, hosted by [Prof. Youssef Marzouk](https://uqgroup.mit.edu/people).
