@@ -9,7 +9,7 @@ baseurl                  : ""
 repository               : "liu-shuigen.github.io"
 
 author:
-  avatar           : "SL.jpeg"
+  avatar           : "SL.jpg"
   name             : "Shuigen Liu"
   bio              : "Postdoctoral Scholar<br>Department of Mathematics<br>Pennsylvania State University"
   address         : # "218 McAllister Building<br>University Park, PA 16802"
